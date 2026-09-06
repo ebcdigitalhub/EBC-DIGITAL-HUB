@@ -1,0 +1,6 @@
+{
+  "name": "EBC Digital Hub",
+  "description": "Professional landing page for EBC Digital Hub, a tech agency in Jalna, Maharashtra offering IT repairs, CCTV, and digital marketing services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
