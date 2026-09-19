@@ -1,6 +1,6 @@
 {
-  "name": "EBC Digital Hub",
-  "description": "Professional landing page for EBC Digital Hub, a tech agency in Jalna, Maharashtra offering IT repairs, CCTV, and digital marketing services.",
+  "name": "EBC DIGITAL HUB",
+  "description": "Your Local Digital & Tech Service Partner in Jalna, Maharashtra. IT Repair, CCTV Installation, Toner Refilling Home Service, and Online Document Assistance.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
